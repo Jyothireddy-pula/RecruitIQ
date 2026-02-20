@@ -17,8 +17,8 @@
 
 ## 🌐 Live Demo
 
-Production: https://aptivhire.onrender.com\
-API Docs: https://aptivhire.onrender.com/docs
+Production:
+API Docs: 
 
 ------------------------------------------------------------------------
 
